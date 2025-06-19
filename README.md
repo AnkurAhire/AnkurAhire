@@ -1,33 +1,33 @@
-<h1 align="center" style="font-family: 'Ubuntu', sans-serif; font-size: 2rem; font-weight: 800;">💫 About Me</h1>
+<h1 align="center" style="font-family: Ubuntu, sans-serif; font-size: 2.2rem; font-weight: 900;">💫 About Me</h1>
 
-<p style="font-family: 'Ubuntu', sans-serif; font-size: 1.05rem; line-height: 1.6;">
-<b>👨‍💻 Currently Working On:</b><br>
-Building a <b>Large Language Model (LLM)</b> from scratch — exploring tokenizer design, transformer architecture, and training workflows using <b>PyTorch</b> and <b>CUDA</b>.
+<p style="font-family: Ubuntu, sans-serif; font-size: 1.25rem; font-weight: bold; line-height: 1.8;">
+👨‍💻 <strong>Currently Working On:</strong><br>
+Building a <strong>Large Language Model (LLM)</strong> from scratch — exploring tokenizer design, transformer architecture, and training workflows using <strong>PyTorch</strong> and <strong>CUDA</strong>.
 </p>
 
-<p style="font-family: 'Ubuntu', sans-serif; font-size: 1.05rem; line-height: 1.6;">
-<b>🤝 Looking to Collaborate On:</b><br>
-Open-source <b>ML projects</b>, <b>frontend dashboards</b> for data visualization, or cool hackathons.
+<p style="font-family: Ubuntu, sans-serif; font-size: 1.25rem; font-weight: bold; line-height: 1.8;">
+🤝 <strong>Looking to Collaborate On:</strong><br>
+Open-source <strong>ML projects</strong>, <strong>frontend dashboards</strong> for data visualization, or cool hackathons.
 </p>
 
-<p style="font-family: 'Ubuntu', sans-serif; font-size: 1.05rem; line-height: 1.6;">
-<b>🆘 Looking For Help With:</b><br>
-Scaling ML models for <b>production</b> and optimizing performance on <b>real-world datasets</b>.
+<p style="font-family: Ubuntu, sans-serif; font-size: 1.25rem; font-weight: bold; line-height: 1.8;">
+🆘 <strong>Looking For Help With:</strong><br>
+Scaling ML models for <strong>production</strong> and optimizing performance on <strong>real-world datasets</strong>.
 </p>
 
-<p style="font-family: 'Ubuntu', sans-serif; font-size: 1.05rem; line-height: 1.6;">
-<b>📚 Currently Learning:</b><br>
-Deep Learning, <b>FastAPI</b>, <b>Docker</b>, and improving frontend skills with <b>React</b> & <b>TailwindCSS</b>.
+<p style="font-family: Ubuntu, sans-serif; font-size: 1.25rem; font-weight: bold; line-height: 1.8;">
+📚 <strong>Currently Learning:</strong><br>
+Deep Learning, <strong>FastAPI</strong>, <strong>Docker</strong>, and improving frontend skills with <strong>React</strong> & <strong>TailwindCSS</strong>.
 </p>
 
-<p style="font-family: 'Ubuntu', sans-serif; font-size: 1.05rem; line-height: 1.6;">
-<b>💬 Ask Me About:</b><br>
-Machine Learning, <b>NLP</b>, <b>Python</b>, <b>FastAPI</b>, <b>Git</b>, and GitHub workflows.
+<p style="font-family: Ubuntu, sans-serif; font-size: 1.25rem; font-weight: bold; line-height: 1.8;">
+💬 <strong>Ask Me About:</strong><br>
+Machine Learning, <strong>NLP</strong>, <strong>Python</strong>, <strong>FastAPI</strong>, <strong>Git</strong>, and GitHub workflows.
 </p>
 
-<p style="font-family: 'Ubuntu', sans-serif; font-size: 1.05rem; line-height: 1.6;">
-<b>🎯 Fun Fact:</b><br>
-What began as a desire to give shape to my thoughts led me to the world of code — where <b>ideas become reality</b>.
+<p style="font-family: Ubuntu, sans-serif; font-size: 1.25rem; font-weight: bold; line-height: 1.8;">
+🎯 <strong>Fun Fact:</strong><br>
+What began as a desire to give shape to my thoughts led me to the world of code — where <strong>ideas become reality</strong>.
 </p>
 
 
