@@ -25,6 +25,9 @@ What began as a desire to give shape to my thoughts led me to the world of code 
 </p>
 
 
+<br> <!-- This adds vertical space -->
+<br> <!-- This adds vertical space -->
+
 
 # 💻 Tech Stack
 
@@ -79,8 +82,7 @@ What began as a desire to give shape to my thoughts led me to the world of code 
 
 
 <br> <!-- This adds vertical space -->
-<br> <!-- This adds vertical space -->
-<br> <!-- This adds vertical space -->
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankur-ahire-6413a2348) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankurahire6@gmail.com) 
