@@ -1,27 +1,30 @@
-# 💫 About Me
+<h1 align="center">💫 About Me</h1>
 
-👨‍💻 **Currently Working On:**  
-Building a **Large Language Model (LLM)** from scratch — exploring tokenizer design, transformer architecture, and training workflows using **PyTorch** and **CUDA**.
+<p><strong>👨‍💻 <span style="font-size: 1.1rem;">Currently Working On:</span></strong><br>
+Building a <strong>Large Language Model (LLM)</strong> from scratch — exploring tokenizer design, transformer architecture, and training workflows using <strong>PyTorch</strong> and <strong>CUDA</strong>.
+</p>
 
-🤝 **Looking to Collaborate On:**  
-Open-source **ML projects**, **frontend dashboards** for data visualization, or cool hackathons.
+<p><strong>🤝 <span style="font-size: 1.1rem;">Looking to Collaborate On:</span></strong><br>
+Open-source <strong>ML projects</strong>, <strong>frontend dashboards</strong> for data visualization, or cool hackathons.
+</p>
 
-🆘 **Looking For Help With:**  
-Scaling ML models for **production** and optimizing performance on **real-world datasets**.
+<p><strong>🆘 <span style="font-size: 1.1rem;">Looking For Help With:</span></strong><br>
+Scaling ML models for <strong>production</strong> and optimizing performance on <strong>real-world datasets</strong>.
+</p>
 
-📚 **Currently Learning:**  
-Deep Learning, **FastAPI**, **Docker**, and improving frontend skills with **React** & **TailwindCSS**.
+<p><strong>📚 <span style="font-size: 1.1rem;">Currently Learning:</span></strong><br>
+Deep Learning, <strong>FastAPI</strong>, <strong>Docker</strong>, and improving frontend skills with <strong>React</strong> & <strong>TailwindCSS</strong>.
+</p>
 
-💬 **Ask Me About:**  
-Machine Learning, **NLP**, **Python**, **FastAPI**, **Git**, and GitHub workflows.
+<p><strong>💬 <span style="font-size: 1.1rem;">Ask Me About:</span></strong><br>
+Machine Learning, <strong>NLP</strong>, <strong>Python</strong>, <strong>FastAPI</strong>, <strong>Git</strong>, and GitHub workflows.
+</p>
 
-🎯 **Fun Fact:**  
-What began as a desire to give shape to my thoughts led me to the world of code — where **ideas become reality**.
+<p><strong>🎯 <span style="font-size: 1.1rem;">Fun Fact:</span></strong><br>
+What began as a desire to give shape to my thoughts led me to the world of code — where <strong>ideas become reality</strong>.
+</p>
 
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankur-ahire-6413a2348) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankurahire6@gmail.com) 
 
 # 💻 Tech Stack
 
@@ -69,23 +72,19 @@ What began as a desire to give shape to my thoughts led me to the world of code 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
+
 
 ### 🎨 Extras
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AnkurAhire&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AnkurAhire&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkurAhire&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankur-ahire-6413a2348) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankurahire6@gmail.com) 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AnkurAhire&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=AnkurAhire&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
