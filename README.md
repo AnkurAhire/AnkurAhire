@@ -1,27 +1,33 @@
-<h1 align="center">💫 About Me</h1>
+<h1 align="center" style="font-family: 'Ubuntu', sans-serif; font-size: 2rem; font-weight: 800;">💫 About Me</h1>
 
-<p><strong>👨‍💻 <span style="font-size: 1.1rem;">Currently Working On:</span></strong><br>
-Building a <strong>Large Language Model (LLM)</strong> from scratch — exploring tokenizer design, transformer architecture, and training workflows using <strong>PyTorch</strong> and <strong>CUDA</strong>.
+<p style="font-family: 'Ubuntu', sans-serif; font-size: 1.05rem; line-height: 1.6;">
+<b>👨‍💻 Currently Working On:</b><br>
+Building a <b>Large Language Model (LLM)</b> from scratch — exploring tokenizer design, transformer architecture, and training workflows using <b>PyTorch</b> and <b>CUDA</b>.
 </p>
 
-<p><strong>🤝 <span style="font-size: 1.1rem;">Looking to Collaborate On:</span></strong><br>
-Open-source <strong>ML projects</strong>, <strong>frontend dashboards</strong> for data visualization, or cool hackathons.
+<p style="font-family: 'Ubuntu', sans-serif; font-size: 1.05rem; line-height: 1.6;">
+<b>🤝 Looking to Collaborate On:</b><br>
+Open-source <b>ML projects</b>, <b>frontend dashboards</b> for data visualization, or cool hackathons.
 </p>
 
-<p><strong>🆘 <span style="font-size: 1.1rem;">Looking For Help With:</span></strong><br>
-Scaling ML models for <strong>production</strong> and optimizing performance on <strong>real-world datasets</strong>.
+<p style="font-family: 'Ubuntu', sans-serif; font-size: 1.05rem; line-height: 1.6;">
+<b>🆘 Looking For Help With:</b><br>
+Scaling ML models for <b>production</b> and optimizing performance on <b>real-world datasets</b>.
 </p>
 
-<p><strong>📚 <span style="font-size: 1.1rem;">Currently Learning:</span></strong><br>
-Deep Learning, <strong>FastAPI</strong>, <strong>Docker</strong>, and improving frontend skills with <strong>React</strong> & <strong>TailwindCSS</strong>.
+<p style="font-family: 'Ubuntu', sans-serif; font-size: 1.05rem; line-height: 1.6;">
+<b>📚 Currently Learning:</b><br>
+Deep Learning, <b>FastAPI</b>, <b>Docker</b>, and improving frontend skills with <b>React</b> & <b>TailwindCSS</b>.
 </p>
 
-<p><strong>💬 <span style="font-size: 1.1rem;">Ask Me About:</span></strong><br>
-Machine Learning, <strong>NLP</strong>, <strong>Python</strong>, <strong>FastAPI</strong>, <strong>Git</strong>, and GitHub workflows.
+<p style="font-family: 'Ubuntu', sans-serif; font-size: 1.05rem; line-height: 1.6;">
+<b>💬 Ask Me About:</b><br>
+Machine Learning, <b>NLP</b>, <b>Python</b>, <b>FastAPI</b>, <b>Git</b>, and GitHub workflows.
 </p>
 
-<p><strong>🎯 <span style="font-size: 1.1rem;">Fun Fact:</span></strong><br>
-What began as a desire to give shape to my thoughts led me to the world of code — where <strong>ideas become reality</strong>.
+<p style="font-family: 'Ubuntu', sans-serif; font-size: 1.05rem; line-height: 1.6;">
+<b>🎯 Fun Fact:</b><br>
+What began as a desire to give shape to my thoughts led me to the world of code — where <b>ideas become reality</b>.
 </p>
 
 
