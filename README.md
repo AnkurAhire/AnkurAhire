@@ -1,32 +1,32 @@
-<h1 align="center" style="font-family: Ubuntu, sans-serif; font-size: 3rem; font-weight: 900;">💫 About Me</h1>
+<h1 align="center" style="font-family: Ubuntu, sans-serif; font-size: 2.8rem;">💫 About Me</h1>
 
-<p style="font-family: Ubuntu, sans-serif; font-size: 2rem; font-weight: bold; line-height: 1.7;">
-👨‍💻 <strong>Currently Working On:</strong><br>
+<h2>👨‍💻 Currently Working On</h2>
+<p style="font-size: 1.3rem; font-weight: 600; line-height: 1.8;">
 Building a <strong>Large Language Model (LLM)</strong> from scratch — exploring tokenizer design, transformer architecture, and training workflows using <strong>PyTorch</strong> and <strong>CUDA</strong>.
 </p>
 
-<p style="font-family: Ubuntu, sans-serif; font-size: 2rem; font-weight: bold; line-height: 1.7;">
-🤝 <strong>Looking to Collaborate On:</strong><br>
+<h2>🤝 Looking to Collaborate On</h2>
+<p style="font-size: 1.3rem; font-weight: 600; line-height: 1.8;">
 Open-source <strong>ML projects</strong>, <strong>frontend dashboards</strong> for data visualization, or cool hackathons.
 </p>
 
-<p style="font-family: Ubuntu, sans-serif; font-size: 2rem; font-weight: bold; line-height: 1.7;">
-🆘 <strong>Looking For Help With:</strong><br>
+<h2>🆘 Looking For Help With</h2>
+<p style="font-size: 1.3rem; font-weight: 600; line-height: 1.8;">
 Scaling ML models for <strong>production</strong> and optimizing performance on <strong>real-world datasets</strong>.
 </p>
 
-<p style="font-family: Ubuntu, sans-serif; font-size: 2rem; font-weight: bold; line-height: 1.7;">
-📚 <strong>Currently Learning:</strong><br>
+<h2>📚 Currently Learning</h2>
+<p style="font-size: 1.3rem; font-weight: 600; line-height: 1.8;">
 Deep Learning, <strong>FastAPI</strong>, <strong>Docker</strong>, and improving frontend skills with <strong>React</strong> & <strong>TailwindCSS</strong>.
 </p>
 
-<p style="font-family: Ubuntu, sans-serif; font-size: 2rem; font-weight: bold; line-height: 1.7;">
-💬 <strong>Ask Me About:</strong><br>
+<h2>💬 Ask Me About</h2>
+<p style="font-size: 1.3rem; font-weight: 600; line-height: 1.8;">
 Machine Learning, <strong>NLP</strong>, <strong>Python</strong>, <strong>FastAPI</strong>, <strong>Git</strong>, and GitHub workflows.
 </p>
 
-<p style="font-family: Ubuntu, sans-serif; font-size: 2rem; font-weight: bold; line-height: 1.7;">
-🎯 <strong>Fun Fact:</strong><br>
+<h2>🎯 Fun Fact</h2>
+<p style="font-size: 1.3rem; font-weight: 600; line-height: 1.8;">
 What began as a desire to give shape to my thoughts led me to the world of code — where <strong>ideas become reality</strong>.
 </p>
 
